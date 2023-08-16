@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/hello?key=af5MlQZciUoUJnU_WDk5V",
+      "schedule": "*/10 * * * *"
+    }
+  ]
+}
